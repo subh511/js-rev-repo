@@ -17,6 +17,17 @@ str.toLocaleLowerCase()
 // nan
 // null
 // empty('')
+// !!10(true),!10false
+
+
+//comparator operator
+
+// == equal to
+// === equal value & equal type
+// != not equal to
+// !== not equal value or not equal type
+// > or >=
+// < or <==
 
 
 
